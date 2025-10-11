@@ -1,1 +1,1 @@
-Organized by Shooting Stars Foundation Submitted an AI-based project idea, exploring innovative applications of artificial intelligence.
+A global competition where developers create projects on AMD hardware Organized by Shooting Stars Foundation and AMD.
